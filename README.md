@@ -25,12 +25,14 @@ Execute the necessary commands/batch file for the desired output.
 # WINDOWS COMMANDS:
 ## Exercise 1: Basic Directory and File Operations
 Create a directory named "my-folder"
+
 <img width="699" height="42" alt="Screenshot 2025-11-05 153624" src="https://github.com/user-attachments/assets/76b2f27b-e9cb-4c57-a95f-6e6c6aff70bb" />
 
 
 ## COMMAND AND OUTPUT
 
 Remove the directory "my-folder"
+
 <img width="682" height="61" alt="Screenshot 2025-11-05 153643" src="https://github.com/user-attachments/assets/edc2a265-cd7e-4f71-b07d-da9e79b967ec" />
 
 
@@ -38,6 +40,7 @@ Remove the directory "my-folder"
 
 
 Create the file Rose.txt
+
 <img width="802" height="358" alt="Screenshot 2025-11-05 153717" src="https://github.com/user-attachments/assets/9722ca80-9ef8-4a79-90e7-0ec6f49f212c" />
 
 
@@ -45,18 +48,21 @@ Create the file Rose.txt
 
 
 Create the file hello.txt using echo and redirection
+
 <img width="805" height="117" alt="Screenshot 2025-11-05 153745" src="https://github.com/user-attachments/assets/f549318d-433f-412f-a776-81bdc58804e0" />
 
 
 ## COMMAND AND OUTPUT
 
 Copy the file hello.txt into the file hello1.txt
+
 <img width="638" height="90" alt="Screenshot 2025-11-05 153805" src="https://github.com/user-attachments/assets/ff5408c1-2c6d-41f8-b601-cb53e71532b6" />
 
 
 ## COMMAND AND OUTPUT
 
 Remove the file hello1.txt
+
 <img width="682" height="222" alt="Screenshot 2025-11-05 153846" src="https://github.com/user-attachments/assets/7b2957b7-5235-419c-b924-b4510bb9e89e" />
 
 
@@ -70,6 +76,7 @@ List out the file hello1.txt in the current directory
 ## COMMAND AND OUTPUT
 
 List out all the associated file extensions 
+
 <img width="864" height="611" alt="Screenshot 2025-11-05 153911" src="https://github.com/user-attachments/assets/63f9ce47-3442-435d-b6ae-8bc3e0d79cd1" />
 
 
@@ -77,6 +84,7 @@ List out all the associated file extensions
 
 
 Compare the file hello.txt and rose.txt
+
 <img width="667" height="223" alt="image" src="https://github.com/user-attachments/assets/b05075a5-6591-4f01-8e79-1007968744a3" />
 
 
